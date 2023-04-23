@@ -23,3 +23,5 @@ def custom_run(conn, app):
                 imp = ['License', wiki_set(), wiki_custom(), wiki_css([0, 0])],
                 menu = [['other', load_lang('return')]]
             ))```
+# 기타
+* Pull Request 환영합니다.
