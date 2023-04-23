@@ -22,6 +22,17 @@ sub, sup {
     color: green;
 }
 
+#cate, .opennamu_category {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: .9rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 4px 4px 4px 6px;
+    display: inline-block;
+    width: 100%;
+}
+
 .main_title_a {
     color: #373a3c;
 }
@@ -72,6 +83,7 @@ h1#main_title {
     margin-top: 0;
     padding-bottom: none;
     border-bottom: none;
+    font-weight: bold;
 }
 
 a.navbar-brand {
